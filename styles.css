@@ -1,0 +1,30 @@
+/* HTML TAGS */
+img:hover{
+background-color: gold;
+}
+
+p{
+  color:green;
+}
+
+/* Classes */
+.img{
+  background-color: red;
+}
+
+.first-para{
+  color:red;
+}
+
+.strawberry{
+  background-color: green;
+}
+
+/* IDs */
+#heading1{
+  color:red;
+}
+
+#para-id{
+  color:blue;
+}
